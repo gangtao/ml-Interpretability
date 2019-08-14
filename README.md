@@ -1,2 +1,2 @@
 # ml-Interpretability
-a demo of interpretability tool including eli5,pdp,shap,lime
+a demo of interpretability tools including eli5,pdp,shap,lime
